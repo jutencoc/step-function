@@ -2,7 +2,7 @@
 create a step function
 
 # lambda code 
-
+# for first lambda function
 import json
 
 def lambda_handler(event, context):
@@ -21,5 +21,16 @@ def lambda_handler(event, context):
 
 
 
-crete secnod lambda 
+# for 1 lambda functio
+# # for 3nd lambda functio
 
+
+create step function 
+
+add lambda function for first execution
+
+add choise
+
+add one lambda to left on to right
+
+addd input code and execute 
